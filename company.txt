@@ -1,0 +1,4 @@
+BankAmerika || Washington||11111||code1||
+BankAzerbaijan ||Baku||22222||code2||
+BankTurkey||Istanbul||33333||code3||
+BankChina||Beijing||4444||code4||

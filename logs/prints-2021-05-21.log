@@ -1,0 +1,103 @@
+15:32:07.572 [main] INFO  com.business.Utilities.Base - chrome launched
+15:32:12.411 [main] INFO  com.business.Utilities.Base - browser closed
+15:32:15.602 [main] INFO  com.business.Utilities.Base - chrome launched
+15:32:20.306 [main] INFO  com.business.Utilities.Base - browser closed
+15:32:24.551 [main] INFO  com.business.Utilities.Base - chrome launched
+15:32:29.166 [main] INFO  com.business.Utilities.Base - browser closed
+15:32:32.868 [main] INFO  com.business.Utilities.Base - chrome launched
+15:32:37.623 [main] INFO  com.business.Utilities.Base - browser closed
+15:32:41.957 [main] INFO  com.business.Utilities.Base - chrome launched
+15:32:46.545 [main] INFO  com.business.Utilities.Base - browser closed
+15:36:17.594 [main] INFO  com.business.Utilities.Base - chrome launched
+15:36:36.792 [main] INFO  com.business.Utilities.Base - browser closed
+15:36:54.124 [main] INFO  com.business.Utilities.Base - chrome launched
+15:37:13.197 [main] INFO  com.business.Utilities.Base - browser closed
+15:46:24.416 [main] INFO  com.business.Utilities.Base - chrome launched
+15:46:34.143 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+15:46:34.432 [main] INFO  com.business.Utilities.Base - browser closed
+16:06:42.317 [main] INFO  com.business.Utilities.Base - chrome launched
+16:06:58.102 [main] INFO  com.business.Utilities.Base - browser closed
+16:07:31.666 [main] INFO  com.business.Utilities.Base - chrome launched
+16:07:36.045 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:07:36.331 [main] INFO  com.business.Utilities.Base - browser closed
+16:09:04.902 [main] INFO  com.business.Utilities.Base - chrome launched
+16:09:12.462 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:09:12.780 [main] INFO  com.business.Utilities.Base - browser closed
+16:09:28.304 [main] INFO  com.business.Utilities.Base - chrome launched
+16:09:32.755 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:09:33.046 [main] INFO  com.business.Utilities.Base - browser closed
+16:10:10.886 [main] INFO  com.business.Utilities.Base - chrome launched
+16:10:27.873 [main] INFO  com.business.Utilities.Base - browser closed
+16:20:20.028 [main] INFO  com.business.Utilities.Base - chrome launched
+16:20:35.373 [main] INFO  com.business.Utilities.Base - browser closed
+16:37:04.062 [main] INFO  com.business.Utilities.Base - chrome launched
+16:37:19.180 [main] INFO  com.business.Utilities.Base - browser closed
+16:53:26.604 [main] INFO  com.business.Utilities.Base - chrome launched
+16:53:31.610 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:53:31.898 [main] INFO  com.business.Utilities.Base - browser closed
+16:55:20.195 [main] INFO  com.business.Utilities.Base - chrome launched
+16:55:24.560 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:55:24.736 [main] INFO  com.business.Utilities.Base - browser closed
+16:55:51.391 [main] INFO  com.business.Utilities.Base - chrome launched
+16:56:54.365 [main] INFO  com.business.Utilities.Base - chrome launched
+16:56:59.036 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+16:56:59.291 [main] INFO  com.business.Utilities.Base - browser closed
+16:57:29.140 [main] INFO  com.business.Utilities.Base - chrome launched
+16:58:14.589 [main] INFO  com.business.Utilities.Base - browser closed
+16:59:25.977 [main] INFO  com.business.Utilities.Base - chrome launched
+16:59:41.916 [main] INFO  com.business.Utilities.Base - browser closed
+17:00:17.105 [main] INFO  com.business.Utilities.Base - chrome launched
+17:00:32.854 [main] INFO  com.business.Utilities.Base - browser closed
+21:47:22.833 [main] INFO  com.business.Utilities.Base - chrome launched
+21:48:03.794 [main] INFO  com.business.Utilities.Base - browser closed
+21:49:55.395 [main] INFO  com.business.Utilities.Base - chrome launched
+21:50:36.569 [main] INFO  com.business.Utilities.Base - browser closed
+21:51:30.382 [main] INFO  com.business.Utilities.Base - chrome launched
+21:52:11.407 [main] INFO  com.business.Utilities.Base - browser closed
+21:53:22.040 [main] INFO  com.business.Utilities.Base - chrome launched
+21:54:09.490 [main] INFO  com.business.Utilities.Base - browser closed
+21:54:57.336 [main] INFO  com.business.Utilities.Base - chrome launched
+21:55:44.172 [main] INFO  com.business.Utilities.Base - browser closed
+21:56:23.531 [main] INFO  com.business.Utilities.Base - chrome launched
+21:57:10.321 [main] INFO  com.business.Utilities.Base - browser closed
+21:57:32.904 [main] INFO  com.business.Utilities.Base - chrome launched
+21:58:19.915 [main] INFO  com.business.Utilities.Base - browser closed
+22:01:01.775 [main] INFO  com.business.Utilities.Base - chrome launched
+22:01:16.482 [main] INFO  com.business.Utilities.Base - browser closed
+22:03:32.684 [main] INFO  com.business.Utilities.Base - chrome launched
+22:03:32.899 [main] INFO  com.business.Tests.Dropdown_Dynamic - Dynamic Dropdown testing
+22:03:44.762 [main] INFO  com.business.Tests.Dropdown_Dynamic - Chennai (MAA)
+22:03:45.991 [main] INFO  com.business.Tests.Dropdown_Dynamic - Delhi (DEL)
+22:03:46.001 [main] INFO  com.business.Tests.Dropdown_Dynamic - test passed
+22:03:46.300 [main] INFO  com.business.Utilities.Base - browser closed
+22:11:07.249 [main] INFO  com.business.Utilities.Base - chrome launched
+22:11:07.500 [main] INFO  com.business.Tests.Dropdown_Dynamic - Dynamic Dropdown testing
+22:11:16.846 [main] INFO  com.business.Tests.Dropdown_Dynamic - Chennai (MAA)
+22:11:18.098 [main] INFO  com.business.Tests.Dropdown_Dynamic - Delhi (DEL)
+22:11:18.110 [main] INFO  com.business.Tests.Dropdown_Dynamic - test passed
+22:11:18.417 [main] INFO  com.business.Utilities.Base - browser closed
+22:20:47.279 [main] INFO  com.business.Utilities.Base - chrome launched
+22:20:48.670 [main] INFO  com.business.Utilities.Base - browser closed
+22:23:55.048 [main] INFO  com.business.Utilities.Base - chrome launched
+22:25:03.565 [main] INFO  com.business.Utilities.Base - chrome launched
+22:26:18.489 [main] INFO  com.business.Utilities.Base - browser closed
+22:54:20.944 [main] INFO  com.business.Utilities.Base - chrome launched
+22:55:28.994 [main] INFO  com.business.Utilities.Base - chrome launched
+22:56:14.673 [main] INFO  com.business.Utilities.Base - browser closed
+22:57:26.613 [main] INFO  com.business.Utilities.Base - chrome launched
+22:57:46.358 [main] INFO  com.business.Utilities.Base - chrome launched
+22:57:46.409 [main] INFO  com.business.Utilities.Base - chrome launched
+22:58:00.488 [main] INFO  com.business.Utilities.Base - chrome launched
+22:58:32.625 [main] INFO  com.business.Utilities.Base - browser closed
+22:58:36.857 [main] INFO  com.business.Utilities.Base - chrome launched
+22:59:08.909 [main] INFO  com.business.Utilities.Base - browser closed
+22:59:13.239 [main] INFO  com.business.Utilities.Base - chrome launched
+22:59:44.983 [main] INFO  com.business.Utilities.Base - browser closed
+23:20:35.121 [main] INFO  com.business.Utilities.Base - chrome launched
+23:20:36.594 [main] INFO  com.business.Utilities.Base - browser closed
+23:20:53.061 [main] INFO  com.business.Utilities.Base - chrome launched
+23:20:54.014 [main] INFO  com.business.Utilities.Base - browser closed
+23:57:31.448 [main] INFO  com.business.Utilities.Base - chrome launched
+23:57:33.126 [main] INFO  com.business.Utilities.Base - browser closed
+23:57:51.566 [main] INFO  com.business.Utilities.Base - chrome launched
+23:57:53.133 [main] INFO  com.business.Utilities.Base - browser closed

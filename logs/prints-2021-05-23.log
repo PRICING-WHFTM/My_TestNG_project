@@ -1,0 +1,54 @@
+11:22:49.613 [main] INFO  com.business.Utilities.Base - chrome launched
+11:23:10.323 [main] INFO  com.business.Utilities.Base - browser closed
+11:29:43.158 [main] INFO  com.business.Utilities.Base - chrome launched
+11:29:52.397 [main] INFO  com.business.Utilities.Base - browser closed
+11:43:52.998 [main] INFO  com.business.Utilities.Base - chrome launched
+11:44:06.997 [main] INFO  com.business.Utilities.Base - browser closed
+11:48:04.799 [main] INFO  com.business.Utilities.Base - chrome launched
+11:48:18.931 [main] INFO  com.business.Utilities.Base - browser closed
+11:59:42.616 [main] INFO  com.business.Utilities.Base - chrome launched
+11:59:55.704 [main] INFO  com.business.Utilities.Base - browser closed
+12:00:22.192 [main] INFO  com.business.Utilities.Base - chrome launched
+12:00:35.022 [main] INFO  com.business.Utilities.Base - browser closed
+12:01:33.547 [main] INFO  com.business.Utilities.Base - chrome launched
+12:02:10.475 [main] INFO  com.business.Utilities.Base - browser closed
+12:07:22.565 [main] INFO  com.business.Utilities.Base - chrome launched
+12:07:32.762 [main] INFO  com.business.Utilities.Base - browser closed
+12:50:59.647 [main] INFO  com.business.Utilities.Base - chrome launched
+12:51:01.069 [main] INFO  com.business.Tests.ParametrizedTest - navigating to :https://opensource-demo.orangehrmlive.com/index.php/dashboard
+12:51:06.862 [main] INFO  com.business.Tests.ParametrizedTest - verified editBox contains given value
+12:51:07.052 [main] INFO  com.business.Utilities.Base - browser closed
+12:53:10.377 [main] INFO  com.business.Utilities.Base - chrome launched
+12:53:17.591 [main] INFO  com.business.Utilities.Base - browser closed
+12:53:38.874 [main] INFO  com.business.Utilities.Base - chrome launched
+12:53:46.571 [main] INFO  com.business.Utilities.Base - browser closed
+12:54:34.188 [main] INFO  com.business.Utilities.Base - chrome launched
+12:54:41.534 [main] INFO  com.business.Utilities.Base - browser closed
+12:55:19.822 [main] INFO  com.business.Utilities.Base - chrome launched
+12:55:20.663 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - navigated the website
+12:55:20.803 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - clicked text generating JS popup
+12:55:21.812 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert text is: I am a JS Alert
+12:55:23.826 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert dismissed
+12:55:24.014 [main] INFO  com.business.Utilities.Base - browser closed
+13:16:43.899 [main] INFO  com.business.Utilities.Base - chrome launched
+13:16:44.865 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - navigated the website
+13:16:44.998 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - clicked text generating JS popup
+13:16:46.009 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert text is: I am a JS Alert
+13:16:48.020 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert dismissed
+13:16:48.277 [main] INFO  com.business.Utilities.Base - browser closed
+15:54:01.973 [main] INFO  com.business.Utilities.Base - chrome launched
+15:54:02.860 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - navigated the website
+15:54:02.945 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - clicked text generating JS popup
+15:54:03.960 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert text is: I am a JS Alert
+15:54:05.969 [main] INFO  com.business.Tests.Popup_JS_with_Lof4J - alert presents,alert dismissed
+15:54:06.128 [main] INFO  com.business.Utilities.Base - browser closed
+15:55:17.401 [main] INFO  com.business.Utilities.Base - chrome launched
+15:55:18.528 [main] INFO  com.business.Utilities.Base - browser closed
+15:57:08.992 [main] INFO  com.business.Utilities.Base - chrome launched
+15:57:11.072 [main] INFO  com.business.Utilities.Base - browser closed
+16:04:56.512 [main] INFO  com.business.Utilities.Base - chrome launched
+16:05:00.584 [main] INFO  com.business.Utilities.Base - browser closed
+16:14:37.765 [main] INFO  com.business.Utilities.Base - chrome launched
+16:14:43.098 [main] INFO  com.business.Utilities.Base - browser closed
+16:15:46.249 [main] INFO  com.business.Utilities.Base - chrome launched
+16:16:19.541 [main] INFO  com.business.Utilities.Base - browser closed

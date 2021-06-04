@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel classes" parallel="classes" thread-count="3">
+    <listeners>
+        <listener class-name="com.business.Utilities.Listeners"/>
+    </listeners>
+    <test name="Parallel classes">
+        <classes>
+            <class name="com.business.Tests.Tables_Static"></class>
+            <class name="com.business.Tests.RadioButtons"></class>
+            <class name="com.business.Tests.Popup_HTML"></class>
+        </classes>
+    </test>
+
+</suite>

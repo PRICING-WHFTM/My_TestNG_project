@@ -1,0 +1,107 @@
+12:23:41.842 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+12:23:51.424 [main] INFO  com.business.Utilities.Base - browser closed
+12:24:28.792 [main] INFO  com.business.Utilities.Base - chrome launched
+12:24:38.216 [main] INFO  com.business.Utilities.Base - browser closed
+12:38:39.507 [main] INFO  com.business.Utilities.Base - chrome launched
+12:38:43.320 [main] INFO  com.business.Utilities.Base - browser closed
+12:57:00.479 [main] INFO  com.business.Utilities.Base - chrome launched
+12:57:09.187 [main] INFO  com.business.Utilities.Base - browser closed
+14:03:11.267 [main] INFO  com.business.Utilities.Base - chrome launched
+14:03:20.691 [main] INFO  com.business.Utilities.Base - browser closed
+14:04:24.581 [main] INFO  com.business.Utilities.Base - chrome launched
+14:04:34.056 [main] INFO  com.business.Utilities.Base - browser closed
+14:51:51.890 [main] INFO  com.business.Utilities.Base - chrome launched
+14:52:02.020 [main] INFO  com.business.Utilities.Base - browser closed
+14:55:12.407 [main] INFO  com.business.Utilities.Base - chrome launched
+14:55:12.674 [main] INFO  com.business.Tests.Actions_mouse - scrool down with alert class
+14:55:19.753 [main] INFO  com.business.Tests.Actions_mouse - scrool up with alert class
+14:55:22.689 [main] INFO  com.business.Utilities.Base - browser closed
+15:00:47.065 [main] INFO  com.business.Utilities.Base - chrome launched
+15:00:48.035 [main] INFO  com.business.Tests.Actions_mouse - navigated to website
+15:00:53.090 [main] INFO  com.business.Tests.Actions_mouse - switching to the frame
+15:00:55.409 [main] INFO  com.business.Tests.Actions_mouse - dragging the element and dropping to drop field
+15:00:55.466 [main] INFO  com.business.Tests.Actions_mouse - waiting for confirmation text to be visible
+15:00:55.491 [main] INFO  com.business.Tests.Actions_mouse - element dropped 
+15:00:55.644 [main] INFO  com.business.Utilities.Base - browser closed
+15:01:15.904 [main] INFO  com.business.Utilities.Base - chrome launched
+15:01:16.117 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+15:01:18.716 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+15:01:21.570 [main] INFO  com.business.Tests.Actions_mouse - Verifying text added in Uppercase
+15:01:21.594 [main] INFO  com.business.Tests.Actions_mouse - text passed in Uppercase
+15:01:21.900 [main] INFO  com.business.Utilities.Base - browser closed
+15:02:44.373 [main] INFO  com.business.Utilities.Base - chrome launched
+15:02:44.645 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+15:02:47.686 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+15:02:49.839 [main] INFO  com.business.Utilities.Base - browser closed
+15:03:41.482 [main] INFO  com.business.Utilities.Base - chrome launched
+15:03:41.801 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+15:03:45.543 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+15:03:47.904 [main] INFO  com.business.Utilities.Base - browser closed
+15:04:38.282 [main] INFO  com.business.Utilities.Base - chrome launched
+15:04:38.486 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+15:04:41.506 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+15:04:44.260 [main] INFO  com.business.Tests.Actions_mouse - Verifying text added in Uppercase
+15:04:44.286 [main] INFO  com.business.Tests.Actions_mouse - text passed in Uppercase
+15:04:44.591 [main] INFO  com.business.Utilities.Base - browser closed
+15:05:09.977 [main] INFO  com.business.Utilities.Base - chrome launched
+15:05:10.273 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+15:05:13.893 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+15:05:17.008 [main] INFO  com.business.Tests.Actions_mouse - Verifying text added in Uppercase
+15:05:17.033 [main] INFO  com.business.Tests.Actions_mouse - text passed in Uppercase
+15:05:17.379 [main] INFO  com.business.Utilities.Base - browser closed
+19:49:20.841 [main] INFO  com.business.Utilities.Base - chrome launched
+19:57:59.804 [main] INFO  com.business.Utilities.Base - browser closed
+20:00:14.030 [main] INFO  com.business.Utilities.Base - chrome launched
+20:03:39.686 [main] INFO  com.business.Utilities.Base - browser closed
+20:05:12.924 [main] INFO  com.business.Utilities.Base - chrome launched
+20:10:47.960 [main] INFO  com.business.Utilities.Base - chrome launched
+20:12:13.590 [main] INFO  com.business.Utilities.Base - chrome launched
+20:20:54.716 [main] INFO  com.business.Utilities.Base - browser closed
+20:30:13.256 [main] INFO  com.business.Utilities.Base - chrome launched
+20:30:26.024 [main] INFO  com.business.Tests.BrushUp - verified editbox contains given value
+20:30:26.263 [main] INFO  com.business.Utilities.Base - browser closed
+20:46:47.977 [main] INFO  com.business.Utilities.Base - chrome launched
+20:46:56.448 [main] INFO  com.business.Tests.BrushUp - verified editbox contains given value
+20:46:56.652 [main] INFO  com.business.Utilities.Base - browser closed
+21:25:48.210 [main] INFO  com.business.Utilities.Base - chrome launched
+21:26:30.226 [main] INFO  com.business.Utilities.Base - browser closed
+21:27:06.956 [main] INFO  com.business.Utilities.Base - chrome launched
+21:27:21.345 [main] INFO  com.business.Utilities.Base - browser closed
+21:29:17.871 [main] INFO  com.business.Utilities.Base - chrome launched
+21:29:19.402 [main] INFO  com.business.Utilities.Base - browser closed
+21:33:19.976 [main] INFO  com.business.Utilities.Base - chrome launched
+21:33:51.869 [main] INFO  com.business.Utilities.Base - browser closed
+21:34:47.738 [main] INFO  com.business.Utilities.Base - chrome launched
+21:35:20.122 [main] INFO  com.business.Utilities.Base - browser closed
+21:36:01.418 [main] INFO  com.business.Utilities.Base - chrome launched
+21:36:38.663 [main] INFO  com.business.Utilities.Base - browser closed
+21:40:24.296 [main] INFO  com.business.Utilities.Base - chrome launched
+21:40:42.328 [main] INFO  com.business.Utilities.Base - browser closed
+21:41:14.228 [main] INFO  com.business.Utilities.Base - chrome launched
+21:41:32.397 [main] INFO  com.business.Utilities.Base - browser closed
+21:43:59.014 [main] INFO  com.business.Utilities.Base - chrome launched
+21:44:15.834 [main] INFO  com.business.Utilities.Base - browser closed
+21:44:57.385 [main] INFO  com.business.Utilities.Base - chrome launched
+21:45:14.195 [main] INFO  com.business.Utilities.Base - browser closed
+21:46:52.603 [main] INFO  com.business.Utilities.Base - chrome launched
+21:47:08.074 [main] INFO  com.business.Utilities.Base - browser closed
+22:04:18.809 [main] INFO  com.business.Utilities.Base - chrome launched
+22:05:07.074 [main] INFO  com.business.Utilities.Base - browser closed
+22:05:55.178 [main] INFO  com.business.Utilities.Base - chrome launched
+22:06:51.140 [main] INFO  com.business.Utilities.Base - browser closed
+22:07:36.632 [main] INFO  com.business.Utilities.Base - chrome launched
+22:08:24.136 [main] INFO  com.business.Utilities.Base - browser closed
+22:10:47.030 [main] INFO  com.business.Utilities.Base - chrome launched
+22:11:34.885 [main] INFO  com.business.Utilities.Base - browser closed
+22:12:28.843 [main] INFO  com.business.Utilities.Base - chrome launched
+22:13:15.595 [main] INFO  com.business.Utilities.Base - browser closed
+23:18:32.089 [main] INFO  com.business.Utilities.Base - chrome launched
+23:19:12.604 [main] INFO  com.business.Utilities.Base - browser closed
+23:19:34.488 [main] INFO  com.business.Utilities.Base - chrome launched
+23:19:52.161 [main] INFO  com.business.Utilities.Base - browser closed
+23:20:07.928 [main] INFO  com.business.Utilities.Base - chrome launched
+23:20:23.376 [main] INFO  com.business.Utilities.Base - browser closed
+23:20:42.197 [main] INFO  com.business.Utilities.Base - chrome launched
+23:20:55.682 [main] INFO  com.business.Utilities.Base - browser closed
+23:21:09.860 [main] INFO  com.business.Utilities.Base - chrome launched
+23:21:28.303 [main] INFO  com.business.Utilities.Base - browser closed

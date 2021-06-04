@@ -1,0 +1,48 @@
+17:06:25.892 [main] INFO  com.business.Utilities.Base - chrome launched
+17:06:38.260 [main] INFO  com.business.Utilities.Base - browser closed
+17:07:47.296 [main] INFO  com.business.Utilities.Base - chrome launched
+17:08:56.502 [main] INFO  com.business.Utilities.Base - browser closed
+17:09:58.687 [main] INFO  com.business.Utilities.Base - chrome launched
+17:10:37.147 [main] INFO  com.business.Utilities.Base - browser closed
+17:11:23.167 [main] INFO  com.business.Utilities.Base - chrome launched
+17:12:02.420 [main] INFO  com.business.Utilities.Base - browser closed
+17:13:01.573 [main] INFO  com.business.Utilities.Base - chrome launched
+17:13:40.096 [main] INFO  com.business.Utilities.Base - browser closed
+17:18:25.142 [main] INFO  com.business.Utilities.Base - chrome launched
+17:19:04.123 [main] INFO  com.business.Tests.DotNet - 3.12.0 version added to the list and check sign is displayed
+17:19:04.170 [main] INFO  com.business.Utilities.Base - browser closed
+17:36:15.661 [main] INFO  com.business.Utilities.Base - chrome launched
+17:36:20.710 [main] INFO  com.business.Utilities.Base - browser closed
+17:37:33.135 [main] INFO  com.business.Utilities.Base - chrome launched
+17:37:37.371 [main] INFO  com.business.Utilities.Base - browser closed
+17:38:31.065 [main] INFO  com.business.Utilities.Base - chrome launched
+17:38:34.661 [main] INFO  com.business.Utilities.Base - browser closed
+17:39:26.259 [main] INFO  com.business.Utilities.Base - chrome launched
+17:39:31.614 [main] INFO  com.business.Utilities.Base - browser closed
+17:40:11.735 [main] INFO  com.business.Utilities.Base - chrome launched
+17:40:15.970 [main] INFO  com.business.Utilities.Base - browser closed
+17:40:33.975 [main] INFO  com.business.Utilities.Base - chrome launched
+17:40:38.372 [main] INFO  com.business.Utilities.Base - browser closed
+17:45:50.672 [main] INFO  com.business.Utilities.Base - chrome launched
+17:45:54.665 [main] INFO  com.business.Utilities.Base - browser closed
+17:47:56.898 [main] INFO  com.business.Utilities.Base - chrome launched
+17:48:35.310 [main] INFO  com.business.Tests.DotNet - 3.12.0 version is added and check sign is displayed
+17:48:35.357 [main] INFO  com.business.Utilities.Base - browser closed
+17:49:00.744 [main] INFO  com.business.Utilities.Base - chrome launched
+17:49:04.552 [main] INFO  com.business.Tests.DotNet - Shared link starts with "https://dotnetfiddle.net/ " 
+17:49:04.646 [main] INFO  com.business.Utilities.Base - browser closed
+17:49:31.684 [main] INFO  com.business.Utilities.Base - chrome launched
+17:49:35.670 [main] INFO  com.business.Tests.DotNet - Options is hidden and not displayed in the page
+17:49:35.842 [main] INFO  com.business.Utilities.Base - browser closed
+17:57:54.246 [main] INFO  com.business.Utilities.Base - chrome launched
+17:57:58.087 [main] INFO  com.business.Tests.DotNet - Login page is Displayed
+17:57:58.176 [main] INFO  com.business.Utilities.Base - browser closed
+18:13:34.331 [main] INFO  com.business.Utilities.Base - chrome launched
+18:13:35.707 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+18:13:35.754 [main] INFO  com.business.Utilities.Base - browser closed
+18:14:06.434 [main] INFO  com.business.Utilities.Base - chrome launched
+18:14:08.725 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+18:14:08.799 [main] INFO  com.business.Utilities.Base - browser closed
+18:14:29.130 [main] INFO  com.business.Utilities.Base - chrome launched
+18:14:33.050 [main] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+18:14:33.175 [main] INFO  com.business.Utilities.Base - browser closed

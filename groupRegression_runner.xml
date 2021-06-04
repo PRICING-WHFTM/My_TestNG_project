@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name=" GLS Regression By Group">
+
+    <listeners>
+        <listener class-name="com.business.Utilities.Listeners"/>
+    </listeners>
+
+    <test name="Regression groups" parallel="classes" thread-count="4">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.business.Tests"/>
+        </packages>
+    </test>
+
+</suite>

@@ -1,0 +1,84 @@
+19:03:56.923 [main] INFO  com.business.Utilities.Base - chrome launched
+19:04:08.828 [main] INFO  com.business.Tests.Dropdown_Dynamic - Chennai (MAA)
+19:04:10.198 [main] INFO  com.business.Tests.Dropdown_Dynamic - Delhi (DEL)
+19:04:10.314 [main] INFO  com.business.Utilities.Base - browser closed
+19:07:56.674 [main] INFO  com.business.Utilities.Base - chrome launched
+19:10:47.370 [main] INFO  com.business.Utilities.Base - chrome launched
+19:13:51.116 [main] INFO  com.business.Utilities.Base - chrome launched
+19:15:29.843 [main] INFO  com.business.Utilities.Base - chrome launched
+19:28:27.938 [main] INFO  com.business.Utilities.Base - chrome launched
+19:29:29.892 [main] INFO  com.business.Utilities.Base - chrome launched
+19:30:41.397 [main] INFO  com.business.Utilities.Base - chrome launched
+19:30:59.989 [main] INFO  com.business.Utilities.Base - browser closed
+19:35:49.226 [main] INFO  com.business.Utilities.Base - chrome launched
+19:35:49.288 [main] INFO  com.business.Tests.Dropdown_Dynamic - Dynamic Dropdown testing
+19:36:00.099 [main] INFO  com.business.Tests.Dropdown_Dynamic - Chennai (MAA)
+19:36:01.455 [main] INFO  com.business.Tests.Dropdown_Dynamic - Delhi (DEL)
+19:36:01.481 [main] INFO  com.business.Tests.Dropdown_Dynamic - test passed
+19:36:01.535 [main] INFO  com.business.Utilities.Base - browser closed
+20:11:04.112 [main] INFO  com.business.Utilities.Base - chrome launched
+20:11:05.897 [main] INFO  com.business.Tests.Tables_Static - Smith John jsmith@gmail.com $50.00 http://www.jsmith.com edit delete
+20:11:05.928 [main] INFO  com.business.Tests.Tables_Static - Bach Frank fbach@yahoo.com $51.00 http://www.frank.com edit delete
+20:11:05.954 [main] INFO  com.business.Tests.Tables_Static - Doe Jason jdoe@hotmail.com $100.00 http://www.jdoe.com edit delete
+20:11:05.971 [main] INFO  com.business.Tests.Tables_Static - Conway Tim tconway@earthlink.net $50.00 http://www.timconway.com edit delete
+20:11:05.983 [main] INFO  com.business.Tests.Tables_Static - Doe Jason jdoe@hotmail.com $100.00 http://www.jdoe.com edit delete
+20:11:06.046 [main] INFO  com.business.Utilities.Base - browser closed
+20:28:44.978 [main] INFO  com.business.Utilities.Base - chrome launched
+20:28:47.017 [main] INFO  com.business.Tests.Tables_Static - Doe
+20:28:47.033 [main] INFO  com.business.Tests.Tables_Static - Jason
+20:28:47.049 [main] INFO  com.business.Tests.Tables_Static - jdoe@hotmail.com
+20:28:47.078 [main] INFO  com.business.Tests.Tables_Static - $100.00
+20:28:47.091 [main] INFO  com.business.Tests.Tables_Static - http://www.jdoe.com
+20:28:47.106 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:28:47.167 [main] INFO  com.business.Utilities.Base - browser closed
+20:30:39.078 [main] INFO  com.business.Utilities.Base - chrome launched
+20:30:41.016 [main] INFO  com.business.Tests.Tables_Static - Doe
+20:30:41.063 [main] INFO  com.business.Tests.Tables_Static - Jason
+20:30:41.090 [main] INFO  com.business.Tests.Tables_Static - jdoe@hotmail.com
+20:30:41.111 [main] INFO  com.business.Tests.Tables_Static - $100.00
+20:30:41.133 [main] INFO  com.business.Tests.Tables_Static - http://www.jdoe.com
+20:30:41.149 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:30:41.212 [main] INFO  com.business.Utilities.Base - browser closed
+20:33:29.028 [main] INFO  com.business.Utilities.Base - chrome launched
+20:33:33.260 [main] INFO  com.business.Tests.Tables_Static - John
+20:33:33.291 [main] INFO  com.business.Tests.Tables_Static - Frank
+20:33:33.307 [main] INFO  com.business.Tests.Tables_Static - Jason
+20:33:33.349 [main] INFO  com.business.Tests.Tables_Static - Tim
+20:33:33.414 [main] INFO  com.business.Utilities.Base - browser closed
+20:34:21.006 [main] INFO  com.business.Utilities.Base - chrome launched
+20:34:22.841 [main] INFO  com.business.Tests.Tables_Static - Smith
+20:34:22.873 [main] INFO  com.business.Tests.Tables_Static - John
+20:34:22.897 [main] INFO  com.business.Tests.Tables_Static - jsmith@gmail.com
+20:34:22.912 [main] INFO  com.business.Tests.Tables_Static - $50.00
+20:34:22.928 [main] INFO  com.business.Tests.Tables_Static - http://www.jsmith.com
+20:34:22.943 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:34:22.959 [main] INFO  com.business.Tests.Tables_Static - Bach
+20:34:22.975 [main] INFO  com.business.Tests.Tables_Static - Frank
+20:34:22.990 [main] INFO  com.business.Tests.Tables_Static - fbach@yahoo.com
+20:34:23.006 [main] INFO  com.business.Tests.Tables_Static - $51.00
+20:34:23.021 [main] INFO  com.business.Tests.Tables_Static - http://www.frank.com
+20:34:23.035 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:34:23.050 [main] INFO  com.business.Tests.Tables_Static - Doe
+20:34:23.067 [main] INFO  com.business.Tests.Tables_Static - Jason
+20:34:23.083 [main] INFO  com.business.Tests.Tables_Static - jdoe@hotmail.com
+20:34:23.095 [main] INFO  com.business.Tests.Tables_Static - $100.00
+20:34:23.112 [main] INFO  com.business.Tests.Tables_Static - http://www.jdoe.com
+20:34:23.128 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:34:23.143 [main] INFO  com.business.Tests.Tables_Static - Conway
+20:34:23.158 [main] INFO  com.business.Tests.Tables_Static - Tim
+20:34:23.172 [main] INFO  com.business.Tests.Tables_Static - tconway@earthlink.net
+20:34:23.190 [main] INFO  com.business.Tests.Tables_Static - $50.00
+20:34:23.206 [main] INFO  com.business.Tests.Tables_Static - http://www.timconway.com
+20:34:23.223 [main] INFO  com.business.Tests.Tables_Static - edit delete
+20:34:23.272 [main] INFO  com.business.Utilities.Base - browser closed
+21:26:16.745 [main] INFO  com.business.Utilities.Base - chrome launched
+21:26:18.744 [main] INFO  com.business.Tests.HiddenElements - Element does not exist in the page
+21:26:18.843 [main] INFO  com.business.Utilities.Base - browser closed
+21:27:06.103 [main] INFO  com.business.Utilities.Base - chrome launched
+21:27:08.799 [main] INFO  com.business.Utilities.Base - browser closed
+21:28:30.150 [main] INFO  com.business.Utilities.Base - chrome launched
+21:28:32.083 [main] INFO  com.business.Utilities.Base - browser closed
+21:28:59.389 [main] INFO  com.business.Utilities.Base - chrome launched
+21:29:01.636 [main] INFO  com.business.Utilities.Base - browser closed
+21:29:49.651 [main] INFO  com.business.Utilities.Base - chrome launched
+21:29:51.481 [main] INFO  com.business.Utilities.Base - browser closed

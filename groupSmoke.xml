@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Group Smoke">
+
+    <listeners>
+        <listener class-name="com.business.Utilities.Listeners"/>
+    </listeners>
+
+    <test name="group Smoke" parallel="classes" thread-count="2">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.business.Tests"/>
+        </packages>
+    </test>
+</suite>

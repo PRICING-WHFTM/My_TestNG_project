@@ -1,0 +1,257 @@
+22:11:57.136 [main] INFO  com.business.Utilities.Base - safari launched
+22:12:03.242 [main] INFO  com.business.Utilities.Base - browser closed
+22:12:11.559 [main] INFO  com.business.Utilities.Base - safari launched
+22:12:13.753 [main] INFO  com.business.Tests.Actions_mouse - navigated to website
+22:12:19.044 [main] INFO  com.business.Tests.Actions_mouse - switching to the frame
+22:12:21.295 [main] INFO  com.business.Utilities.Base - browser closed
+22:12:30.049 [main] INFO  com.business.Utilities.Base - safari launched
+22:13:08.985 [main] INFO  com.business.Utilities.Base - browser closed
+22:13:17.843 [main] INFO  com.business.Utilities.Base - safari launched
+22:13:18.490 [main] INFO  com.business.Tests.Actions_mouse - scrool down with alert class
+22:13:23.330 [main] INFO  com.business.Utilities.Base - browser closed
+22:13:32.278 [main] INFO  com.business.Utilities.Base - safari launched
+22:13:32.997 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+22:13:35.180 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+22:13:38.504 [main] INFO  com.business.Utilities.Base - browser closed
+22:15:46.003 [main] INFO  com.business.Utilities.Base - safari launched
+22:15:55.339 [main] INFO  com.business.Utilities.Base - browser closed
+22:16:44.885 [main] INFO  com.business.Utilities.Base - safari launched
+22:16:47.957 [main] INFO  com.business.Utilities.Base - browser closed
+22:18:58.624 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:19:05.162 [main] INFO  com.business.Tests.Actions_mouse - navigated to website
+22:19:10.257 [main] INFO  com.business.Tests.Actions_mouse - switching to the frame
+22:19:12.681 [main] INFO  com.business.Tests.Actions_mouse - dragging the element and dropping to drop field
+22:19:12.759 [main] INFO  com.business.Tests.Actions_mouse - waiting for confirmation text to be visible
+22:19:12.806 [main] INFO  com.business.Tests.Actions_mouse - element dropped 
+22:19:12.853 [main] INFO  com.business.Utilities.Base - browser closed
+22:19:27.619 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:19:43.308 [main] INFO  com.business.Utilities.Base - browser closed
+22:19:47.043 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:19:51.503 [main] INFO  com.business.Tests.Actions_mouse - navigated to website
+22:19:56.565 [main] INFO  com.business.Tests.Actions_mouse - switching to the frame
+22:19:58.957 [main] INFO  com.business.Tests.Actions_mouse - dragging the element and dropping to drop field
+22:19:59.020 [main] INFO  com.business.Tests.Actions_mouse - waiting for confirmation text to be visible
+22:19:59.051 [main] INFO  com.business.Tests.Actions_mouse - element dropped 
+22:19:59.101 [main] INFO  com.business.Utilities.Base - browser closed
+22:20:02.815 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:20:38.136 [main] INFO  com.business.Utilities.Base - browser closed
+22:20:41.916 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:20:44.142 [main] INFO  com.business.Tests.Actions_mouse - scrool down with alert class
+22:20:53.070 [main] INFO  com.business.Tests.Actions_mouse - scrool up with alert class
+22:20:57.950 [main] INFO  com.business.Utilities.Base - browser closed
+22:21:01.691 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:21:03.918 [main] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+22:21:09.436 [main] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+22:21:11.676 [main] INFO  com.business.Tests.Actions_mouse - Verifying text added in Uppercase
+22:21:11.699 [main] INFO  com.business.Tests.Actions_mouse - text passed in Uppercase
+22:21:11.717 [main] INFO  com.business.Utilities.Base - browser closed
+22:21:48.285 [main] INFO  com.business.Utilities.Base - chrome-headless launched
+22:22:23.842 [main] INFO  com.business.Utilities.Base - browser closed
+22:44:15.261 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - safari launched
+22:44:15.901 [TestNG-test=Regression groups-3] INFO  com.business.Utilities.Base - safari launched
+22:44:24.103 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - browser closed
+22:44:34.615 [TestNG-test=Regression groups-3] INFO  com.business.Utilities.Base - browser closed
+22:44:37.588 [TestNG-test=Regression groups-1] INFO  com.business.Utilities.Base - safari launched
+22:44:46.125 [TestNG-test=Regression groups-1] INFO  com.business.Utilities.Base - browser closed
+22:45:01.700 [TestNG-test=Regression groups-3] INFO  com.business.Utilities.Base - safari launched
+22:45:03.997 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - safari launched
+22:45:10.771 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - browser closed
+22:45:24.511 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - safari launched
+22:45:29.410 [TestNG-test=Regression groups-2] INFO  com.business.Utilities.Base - browser closed
+22:45:53.120 [TestNG-test=Regression groups-3] INFO  com.business.Utilities.Base - browser closed
+22:47:17.481 [TestNG-test=group Smoke-1] INFO  com.business.Utilities.Base - safari launched
+22:47:21.274 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - safari launched
+22:47:26.271 [TestNG-test=group Smoke-1] INFO  com.business.Utilities.Base - browser closed
+22:47:29.561 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - browser closed
+22:47:37.898 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - safari launched
+22:47:43.471 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - browser closed
+22:47:51.846 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - safari launched
+22:47:57.387 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - browser closed
+22:51:38.832 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:51:40.833 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:51:47.266 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:51:53.426 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:52:01.203 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:52:05.176 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:52:07.495 [TestNG-test=Regression-1] INFO  com.business.Tests.Actions_mouse - navigated to website
+22:52:12.824 [TestNG-test=Regression-1] INFO  com.business.Tests.Actions_mouse - switching to the frame
+22:52:14.815 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:52:27.194 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:52:29.669 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:52:48.113 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:53:25.024 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:53:44.062 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:54:22.145 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:54:38.782 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:54:40.167 [TestNG-test=Regression-1] INFO  com.business.Tests.Actions_mouse - scrool down with alert class
+22:54:42.447 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:54:48.566 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:54:57.184 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:55:00.995 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:55:01.503 [TestNG-test=Regression-1] INFO  com.business.Tests.Actions_mouse - navigating the amazon.com
+22:55:04.422 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:55:05.192 [TestNG-test=Regression-1] INFO  com.business.Tests.Actions_mouse - entering text in Uppercase
+22:55:09.665 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:55:18.465 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:55:23.713 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:55:24.113 [TestNG-test=Regression-2] INFO  com.business.Tests.DotNet -  "Back editor button" is displayed
+22:55:24.381 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:55:32.062 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:55:39.907 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:55:45.477 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:56:00.586 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:56:24.248 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:56:26.090 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:56:32.516 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:56:42.236 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:56:42.810 [TestNG-test=Regression-1] INFO  com.business.Tests.Dropdown_Dynamic - Dynamic Dropdown testing
+22:56:51.712 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:56:57.169 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:56:59.435 [TestNG-test=Regression-1] INFO  com.business.Tests.Dropdown_Dynamic - Chennai (MAA)
+22:57:01.411 [TestNG-test=Regression-1] INFO  com.business.Tests.Dropdown_Dynamic - Delhi (DEL)
+22:57:01.541 [TestNG-test=Regression-1] INFO  com.business.Tests.Dropdown_Dynamic - test passed
+22:57:01.806 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:57:09.584 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:57:16.329 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:57:25.332 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:57:30.200 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:57:37.343 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:57:42.743 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:57:47.656 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:57:55.164 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:58:09.713 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:58:14.261 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:58:27.084 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:58:29.950 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:58:34.428 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:58:53.602 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:58:55.739 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:59:14.149 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:59:18.443 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:59:27.074 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:59:28.264 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+22:59:32.661 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+22:59:37.334 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+22:59:45.261 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+22:59:46.699 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+22:59:49.997 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+22:59:58.782 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:00:02.316 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:00:09.063 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:00:13.139 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:00:20.148 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:00:23.701 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:00:28.520 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:00:31.565 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:00:42.408 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:00:42.420 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:00:42.684 [TestNG-test=Regression-1] INFO  com.business.Tests.JDBC_tasks_using_DBUtils - lastname is Babayev
+23:00:46.499 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:00:47.884 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:01:03.878 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:01:04.806 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:01:30.897 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:01:43.157 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:02:02.597 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:02:16.473 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:02:30.991 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:02:43.973 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:02:56.075 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:03:15.734 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:03:24.147 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:03:35.614 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:03:37.629 [TestNG-test=Regression-3] INFO  com.business.Tests.Popup_JS_with_Lof4J - navigated the website
+23:03:39.924 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:03:51.631 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:03:54.709 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:03:58.100 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:04:03.836 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:04:07.541 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:04:11.623 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:04:20.980 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:04:24.105 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:04:39.271 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:04:51.130 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:04:54.599 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:04:54.760 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:04:58.247 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:05:06.598 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:05:10.752 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:05:42.628 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:06:01.743 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:06:08.376 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:06:11.747 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Doe
+23:06:12.041 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Jason
+23:06:12.278 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - jdoe@hotmail.com
+23:06:12.553 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - $100.00
+23:06:12.881 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - http://www.jdoe.com
+23:06:13.187 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - edit delete
+23:06:13.515 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:06:27.147 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:06:32.983 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:06:38.834 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:06:54.205 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:06:59.542 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:07:02.612 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Smith
+23:07:02.750 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - John
+23:07:02.885 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - jsmith@gmail.com
+23:07:03.030 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - $50.00
+23:07:03.139 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - http://www.jsmith.com
+23:07:03.286 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - edit delete
+23:07:03.384 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Bach
+23:07:03.505 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Frank
+23:07:03.602 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - fbach@yahoo.com
+23:07:03.734 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - $51.00
+23:07:03.840 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - http://www.frank.com
+23:07:03.966 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - edit delete
+23:07:04.093 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Doe
+23:07:04.222 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Jason
+23:07:04.363 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - jdoe@hotmail.com
+23:07:04.498 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - $100.00
+23:07:04.593 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - http://www.jdoe.com
+23:07:04.722 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - edit delete
+23:07:04.977 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Conway
+23:07:05.313 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Tim
+23:07:05.422 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - tconway@earthlink.net
+23:07:05.550 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - $50.00
+23:07:05.666 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - http://www.timconway.com
+23:07:05.778 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - edit delete
+23:07:06.640 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:07:06.743 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:07:14.107 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:07:18.993 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - safari launched
+23:07:27.555 [TestNG-test=Regression-3] INFO  com.business.Utilities.Base - browser closed
+23:07:28.999 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:07:32.649 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:07:39.844 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:07:48.556 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:07:50.764 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:07:53.534 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Last Name
+23:07:53.645 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - First Name
+23:07:54.305 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Email
+23:07:54.412 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Due
+23:07:54.546 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Web Site
+23:07:54.706 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Action
+23:07:55.053 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:08:03.782 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - safari launched
+23:08:12.511 [TestNG-test=Regression-1] INFO  com.business.Utilities.Base - browser closed
+23:08:12.894 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:08:15.256 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Smith John jsmith@gmail.com $50.00 http://www.jsmith.com edit delete
+23:08:15.378 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Bach Frank fbach@yahoo.com $51.00 http://www.frank.com edit delete
+23:08:15.510 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Doe Jason jdoe@hotmail.com $100.00 http://www.jdoe.com edit delete
+23:08:15.614 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Conway Tim tconway@earthlink.net $50.00 http://www.timconway.com edit delete
+23:08:15.734 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Doe Jason jdoe@hotmail.com $100.00 http://www.jdoe.com edit delete
+23:08:16.082 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:08:23.389 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:08:26.831 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - John
+23:08:27.573 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Frank
+23:08:27.784 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Jason
+23:08:27.987 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Tim
+23:08:28.213 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:08:37.508 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:08:42.320 [TestNG-test=Regression-2] INFO  com.business.Tests.Tables_Static - Email
+23:08:42.680 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:08:51.797 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:08:55.481 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed
+23:09:04.392 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - safari launched
+23:09:07.202 [TestNG-test=Regression-2] INFO  com.business.Utilities.Base - browser closed

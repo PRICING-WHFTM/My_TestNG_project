@@ -1,0 +1,18 @@
+19:40:05.973 [main] INFO  com.business.Utilities.Base - chrome launched
+19:40:08.158 [main] INFO  com.business.Utilities.Base - browser closed
+19:44:43.945 [main] INFO  com.business.Utilities.Base - chrome launched
+19:44:46.060 [main] INFO  com.business.Utilities.Base - browser closed
+19:47:13.644 [TestNG-test=group Smoke-1] INFO  com.business.Utilities.Base - chrome launched
+19:47:13.645 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - chrome launched
+19:47:29.063 [TestNG-test=group Smoke-1] INFO  com.business.Utilities.Base - browser closed
+19:47:46.895 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - chrome launched
+19:48:07.199 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - chrome launched
+19:48:23.359 [TestNG-test=group Smoke-2] INFO  com.business.Utilities.Base - browser closed
+20:04:40.412 [main] INFO  com.business.Utilities.Base - chrome launched
+20:04:41.713 [main] INFO  com.business.Tests.ParametrizedTest - navigating to :https://opensource-demo.orangehrmlive.com/index.php/dashboard
+20:04:47.571 [main] INFO  com.business.Tests.ParametrizedTest - verified editBox contains given value
+20:04:47.813 [main] INFO  com.business.Utilities.Base - browser closed
+20:05:54.207 [main] INFO  com.business.Utilities.Base - chrome launched
+20:05:55.478 [main] INFO  com.business.Tests.ParametrizedTest - navigating to :https://opensource-demo.orangehrmlive.com/index.php/dashboard
+20:06:01.514 [main] INFO  com.business.Tests.ParametrizedTest - verified editBox contains given value
+20:06:01.722 [main] INFO  com.business.Utilities.Base - browser closed
